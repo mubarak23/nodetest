@@ -33,4 +33,6 @@ app.listen(500, function(err){
 		if(err){
 			console.log(err);
 		}else{
-			console.log("A
+			console.log("App Running on Port 500");
+		}
+});
